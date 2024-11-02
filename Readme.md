@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
+* Студент: [Акелина Наталья](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
 * Наставник: `Неизвестно`.
 
 ---
