@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Акелина Наталья](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
-* Наставник: `Неизвестно`.
+* Наставник: [Акелина Наталья](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
 
 ---
 
