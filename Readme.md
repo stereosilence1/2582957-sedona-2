@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Наталья](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
-* Наставник: [Наталья](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
-* Сайт: [Наталья](https://stereosilence1.github.io/2582957-sedona-2/).
+* Наставник: [1](https://up.htmlacademy.ru/htmlcss-individual/2/user/2582957).
+* Сайт: [Проект Седона](https://stereosilence1.github.io/2582957-sedona-2/).
 
 
 ---
